@@ -11,14 +11,14 @@
 
 // Analytics constants
 static NSString* const kLogComponentIdentifier = @"textChatAccPack";
-static NSString* const KLogClientVersion = @"ios-vsol-1.0.0";
+static NSString* const KLogClientVersion = @"ios-vsol-2.0.0";
 static NSString* const KLogActionInitialize = @"Init";
 static NSString* const KLogActionStart = @"Start";
 static NSString* const KLogActionEnd = @"End";
 static NSString* const KLogActionOpen = @"OpenTC";
 static NSString* const KLogActionClose = @"CloseTC";
-static NSString* const KLogActionSendMessage = @"Send Msg";
-static NSString* const KLogActionReceiveMessage = @"Receive Msg";
+static NSString* const KLogActionSendMessage = @"SendMessage";
+static NSString* const KLogActionReceiveMessage = @"ReceiveMessage";
 static NSString* const KLogActionSetMaxLength = @"SetMaxLength";
 static NSString* const KLogVariationAttempt = @"Attempt";
 static NSString* const KLogVariationSuccess = @"Success";
